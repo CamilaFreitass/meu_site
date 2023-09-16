@@ -1,0 +1,46 @@
+
+.imagem-redonda {
+      border-radius: 50%;
+      overflow: hidden;
+      width: 300px;
+      height: 300px;
+    }
+
+.cinza{
+    background-color:  #CCCCCC;
+    height: 450px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    }
+
+
+.progress-bar{
+    background-color: #de82e3;
+    }
+
+#img-card{
+    width: 250px;
+    height: 160px;
+    }
+
+.hackas{
+    height: 500px;
+    }
+
+.botao-git{
+    bottom: 0px;
+    position: absolute;
+    margin-bottom: 16px;
+    }
+
+#frase{
+    font-family: Amatic SC;
+    font-size: 30px;
+    }
+
+#autor{
+    font-family: Amatic SC;
+    font-size: 16px;
+    align: right;
+    }
